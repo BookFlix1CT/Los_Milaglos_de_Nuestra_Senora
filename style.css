@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Zen Antique', serif;
+}
+
+#BookFlix {
+    color: crimson;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+#titulo {
+    color: blue;
+}
+.video {
+    height: 35vw;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    color: rgb(88, 223, 133);
+}
+
+strong {
+    color: rgb(117, 161, 211);
+}
+
+em {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#conjunto {
+    display: flex;
+}
+
+.Enlaces {
+    font-size: 2vw;
+    color: white;
+    text-decoration-line: none;
+    text-decoration: underline black;
+}
+
+.Milagros {
+    color: rgb(73, 184, 178);
+    display: flex;
+    justify-content: center;
+}
+
+.Texto {
+    color: green;
+    display: flex;
+    justify-content: center;
+}
